@@ -55,9 +55,13 @@ section{
   width:600px;
   font-size: 20px;
 }
-.cityitem{
-  border-width: 10px;
-  border-color: white;
+.city-item{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color:#83ebc8 ;
+  margin-top: 5px;
+  margin-bottom: 5px;
   
 
   
